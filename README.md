@@ -6,13 +6,20 @@
 - Dive into Deep Learning CTR DataSet
 
 ## Model
-- Matrix Factorization (MF) - MovieLens
-- AutoRec - MovieLens
-- Neural Collaborative Filtering (NCF) - MovieLens 
-- Convolutional Sequence Embedding Recommendation Model (Caser) - MovieLens
-- Factorization Machines (FM) - CTR
-- Deep Factorization Machines (DeepFM) - CTR
-- PinSAGE - MovieLens
+- Matrix Factorization (MF) - MovieLens / 2022. 02. 11. 금요일
+  - (2009). Matrix factorization techniques for recommender systems
+- AutoRec - MovieLens / 2022. 02. 18. 금요일
+  - (2015). Autorec: autoencoders meet collaborative filtering
+- Neural Collaborative Filtering (NCF) - MovieLens / 2022. 02. 25. 금요일
+  - (2017). Neural collaborative filtering
+- Convolutional Sequence Embedding Recommendation Model (Caser) - MovieLens / 2022. 03. 04. 금요일
+  - (2018). Personalized top-n sequential recommendation via convolutional sequence embedding
+- Factorization Machines (FM) - CTR / 2022. 03. 11. 금요일
+  - (2010). Factorization machines
+- Deep Factorization Machines (DeepFM) - CTR / 2022. 03. 18. 금요일
+  - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+- PinSAGE - MovieLens  / 2022. 03. 25. 금요일
+  - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 ## Reference
 - https://d2l.ai/chapter_recommender-systems/index.html
