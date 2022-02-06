@@ -6,7 +6,7 @@
 - Dive into Deep Learning CTR DataSet
 
 ## Model
-- Matrix Factorization (MF) - MovieLens / 2022. 02. 11. 금요일
+- [Matrix Factorization (MF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens / 2022. 02. 11. 금요일
   - (2009). Matrix factorization techniques for recommender systems
 - AutoRec - MovieLens / 2022. 02. 18. 금요일
   - (2015). Autorec: autoencoders meet collaborative filtering
