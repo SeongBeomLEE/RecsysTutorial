@@ -1,5 +1,7 @@
 # RecsysTutorial
-추천시스템에서 활용되는 다양한 모델들을 직접 구현한 Code를 저장한 Tutorial Repository 입니다.
+추천시스템의 다양한 논문들을 직접 읽고 직접 구현한 Code가 저장된 Tutorial Repository 입니다.
+
+논문 리뷰가 저장된 벨로그 주소: https://velog.io/@2712qwer/series/RecSys-Paper
 
 ## Used Data
 - MovieLens-100k
