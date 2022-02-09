@@ -10,7 +10,7 @@
 ## Model
 - [Matrix Factorization (MF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens / 2022. 02. 11. 금요일
   - (2009). Matrix Factorization Techniques for Recommender Systems
-- AutoRec - MovieLens / 2022. 02. 18. 금요일
+- [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens / 2022. 02. 18. 금요일
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
 - Neural Collaborative Filtering (NCF) - MovieLens / 2022. 02. 25. 금요일
   - (2017). Neural Collaborative Filtering
