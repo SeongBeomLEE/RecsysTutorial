@@ -9,18 +9,20 @@
 
 ## Model
 - [Matrix Factorization (MF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens / 2022. 02. 11. 금요일
-  - (2009). Matrix factorization techniques for recommender systems
+  - (2009). Matrix Factorization Techniques for Recommender Systems
 - AutoRec - MovieLens / 2022. 02. 18. 금요일
-  - (2015). Autorec: autoencoders meet collaborative filtering
+  - (2015). Autorec: Autoencoders Meet Collaborative Filtering
 - Neural Collaborative Filtering (NCF) - MovieLens / 2022. 02. 25. 금요일
-  - (2017). Neural collaborative filtering
+  - (2017). Neural Collaborative Filtering
 - Convolutional Sequence Embedding Recommendation Model (Caser) - MovieLens / 2022. 03. 04. 금요일
-  - (2018). Personalized top-n sequential recommendation via convolutional sequence embedding
+  - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 - Factorization Machines (FM) - CTR / 2022. 03. 11. 금요일
-  - (2010). Factorization machines
+  - (2010). Factorization Machines
 - Deep Factorization Machines (DeepFM) - CTR / 2022. 03. 18. 금요일
   - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
-- PinSAGE - MovieLens  / 2022. 03. 25. 금요일
+- Graph Convolutional Matrix Completion (GC-MC) - MovieLens / 2022. 03. 25. 금요일
+  - (2017). Graph Convolutional Matrix Completion
+- PinSAGE - MovieLens / 2022. 04. 01. 금요일
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 ## Reference
