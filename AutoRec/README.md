@@ -1,4 +1,4 @@
-# (2015, ACM) AutoRec: Autoencoders Meet Collaborative Filtering
+# (2015, WWW) AutoRec: Autoencoders Meet Collaborative Filtering
 # 01. Introduction
 - Collaborative filtering (CF) model은 아이템에 대한 유저의 선호도(ex, 평점)를 바탕으로 개인화된 추천을 제공하는 것이 목표이다.
 - 대중적으로 Matrix Factorisation, Neighbourhood model이 사용되지만, 본 논문에서는 Autoencoder에 기반한 새로운 CF model인 AutoRec을 제안한다.
