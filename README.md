@@ -12,7 +12,7 @@
   - (2009). Matrix Factorization Techniques for Recommender Systems
 - [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens / 2022. 02. 18. 금요일
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
-- Neural Collaborative Filtering (NCF) - MovieLens / 2022. 02. 25. 금요일
+- [Neural Collaborative Filtering (NCF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens / 2022. 02. 25. 금요일
   - (2017). Neural Collaborative Filtering
 - Convolutional Sequence Embedding Recommendation Model (Caser) - MovieLens / 2022. 03. 04. 금요일
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
