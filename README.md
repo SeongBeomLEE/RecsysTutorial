@@ -7,7 +7,7 @@
 - MovieLens-100k
 - Dive into Deep Learning CTR DataSet
 
-## Model
+## Implementation List
 - [Matrix Factorization (MF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
   - (2009). Matrix Factorization Techniques for Recommender Systems
 - [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
@@ -16,7 +16,7 @@
   - (2017). Neural Collaborative Filtering
 - [Convolutional Sequence Embedding Recommendation Model (Caser)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
-- Bayesian Personalized Ranking - MovieLens (Model 이라기 보다는 loss 함수)
+- Bayesian Personalized Ranking - MovieLens
   - (2012). BPR: Bayesian Personalized Ranking from Implicit Feedback
 - Factorization Machines (FM) - CTR
   - (2010). Factorization Machines
