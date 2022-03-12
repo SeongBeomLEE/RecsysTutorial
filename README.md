@@ -14,7 +14,7 @@
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
 - [Neural Collaborative Filtering (NCF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
   - (2017). Neural Collaborative Filtering
-- [Convolutional Sequence Embedding Recommendation Model (Caser)]((https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser)) - MovieLens
+- [Convolutional Sequence Embedding Recommendation Model (Caser)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 - Bayesian Personalized Ranking - MovieLens (Model 이라기 보다는 loss 함수)
   - (2012). BPR: Bayesian Personalized Ranking from Implicit Feedback
