@@ -17,7 +17,7 @@
 - [Convolutional Sequence Embedding Recommendation Model (Caser)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 - Bayesian Personalized Ranking - MovieLens
-  - (2012). BPR: Bayesian Personalized Ranking from Implicit Feedback
+  - (2009). BPR: Bayesian Personalized Ranking from Implicit Feedback
 - Factorization Machines (FM) - CTR
   - (2010). Factorization Machines
 - Deep Factorization Machines (DeepFM) - CTR
