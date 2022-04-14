@@ -1,5 +1,5 @@
 # RecsysTutorial
-추천시스템의 다양한 논문들을 직접 읽고 직접 구현한 Code가 저장된 Recsys Tutorial Repository 입니다.
+추천시스템 논문을 읽고 구현한 Code가 저장된 Recsys Tutorial Repository 입니다.
 
 논문 리뷰가 저장된 벨로그 주소: https://velog.io/@2712qwer/series/RecSys-Paper
 
@@ -11,16 +11,16 @@
 
 ### Session-based
 
-- GRU4Rec - MovieLens
+- [GRU4Rec]() - MovieLens
   - (2016). Session-based Recommendations with Recurrent Neural Networks
 
-- [Convolutional Sequence Embedding Recommendation Model (Caser)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
+- [Caser](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 
-- Self-Attentive Sequential Recommendation (SASRec) - MovieLens
+- [SASRec]() - MovieLens
   - (2018). Self-Attentive Sequential Recommendation
 
-- BERT4Rec - MovieLens
+- [BERT4Rec]() - MovieLens
   - (2019). BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
 
 - S3-Rec - MovieLens
@@ -28,40 +28,59 @@
 
 ### GNN-based
 
-- Session-based Recommendation with Graph Neural Network (SR-GNN) - MovieLens
+- SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
 
-- Recurrent Neural Networks with Top-k Gains for Session-based Recommendations
-  - (2018). Recurrent Neural Networks with Top-k Gains for Session-based Recommendations
-
-- Neural Graph Collaborative Filtering (NGCF) - MovieLens
+- [NGCF]() - MovieLens
   - (2019), Neural Graph Collaborative Filtering
-  
-- Light Graph Convolution Network (LightGCN) - MovieLens
+
+- [LightGCN]() - MovieLens
   - (2020), LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
   
-- Graph Convolutional Matrix Completion (GC-MC) - MovieLens
+- GC-MC - MovieLens
   - (2017). Graph Convolutional Matrix Completion
   
 - PinSAGE - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
-### 이외
+### AutoEncoder-based
 
-- [Matrix Factorization (MF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
-  - (2009). Matrix Factorization Techniques for Recommender Systems
-  
 - [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
+
+- [Multi-VAE & Multi-DAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Multi-VAE-and-Multi-DAE) - MovieLens
+  - (2018). Variational Autoencoders for Collaborative Filtering
+
+- [RecVAE]() - MovieLens
+  - (2019). RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback
+
+- [EASE]() - MovieLens
+  - (2019). Embarrassingly Shallow Autoencoders for Sparse Data
   
-- [Neural Collaborative Filtering (NCF)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
+- [ADMM SLIM]() - MovieLens
+  - (2020). ADMM SLIM: Sparse Recommendations for Many Users
+  - https://github.com/tnakae/admm_slim
+
+- [HOSLIM]() - MovieLens
+  - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
+  - https://github.com/hasteck/Higher_Recsys_2021
+
+### 이외
+
+- [MF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
+  - (2009). Matrix Factorization Techniques for Recommender Systems
+  
+- [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
   - (2017). Neural Collaborative Filtering
   
-- [Bayesian Personalized Ranking (BPR)](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BPR) - MovieLens
+- [BPR](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BPR) - MovieLens
   - (2009). BPR: Bayesian Personalized Ranking from Implicit Feedback
 
-- Factorization Machines (FM) - CTR
+- [FM]() - CTR
   - (2010). Factorization Machines
   
-- Deep Factorization Machines (DeepFM) - CTR
+- [DeepFM]() - CTR
   - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+
+- [Item2Vec]() - MovieLens
+  - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
