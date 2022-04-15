@@ -59,11 +59,9 @@
   
 - [ADMM SLIM]() - MovieLens
   - (2020). ADMM SLIM: Sparse Recommendations for Many Users
-  - https://github.com/tnakae/admm_slim
 
 - [EASER]() - MovieLens
   - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
-  - https://github.com/hasteck/Higher_Recsys_2021
 
 ### 이외
 
