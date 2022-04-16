@@ -60,10 +60,10 @@
 - [EASE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASE) - MovieLens
   - (2019). Embarrassingly Shallow Autoencoders for Sparse Data
   
-- [ADMM SLIM]() - MovieLens
+- [ADMM SLIM](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/ADMM-SLIM) - MovieLens
   - (2020). ADMM SLIM: Sparse Recommendations for Many Users
 
-- [EASER]() - MovieLens
+- [EASER](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASER) - MovieLens
   - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
 
 ### 이외
