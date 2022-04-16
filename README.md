@@ -27,6 +27,11 @@
   - (2020). S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
 
 ### GNN-based
+- GC-MC - MovieLens
+  - (2017). Graph Convolutional Matrix Completion
+  
+- PinSAGE - MovieLens
+  - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
@@ -37,12 +42,6 @@
 - [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
   - (2020), LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
   
-- GC-MC - MovieLens
-  - (2017). Graph Convolutional Matrix Completion
-  
-- PinSAGE - MovieLens
-  - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
-
 ### AutoEncoder-based
 
 - [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
@@ -68,20 +67,22 @@
 
 ### 이외
 
-- [MF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
-  - (2009). Matrix Factorization Techniques for Recommender Systems
-  
-- [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
-  - (2017). Neural Collaborative Filtering
-  
 - [BPR](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BPR) - MovieLens
   - (2009). BPR: Bayesian Personalized Ranking from Implicit Feedback
+  
+- [MF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
+  - (2009). Matrix Factorization Techniques for Recommender Systems
 
 - FM - CTR
   - (2010). Factorization Machines
+
+- Item2Vec - MovieLens
+  - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
+
+- [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
+  - (2017). Neural Collaborative Filtering
   
 - DeepFM - CTR
   - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
 
-- Item2Vec - MovieLens
-  - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
+
