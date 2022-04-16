@@ -31,10 +31,10 @@
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
 
-- [NGCF]() - MovieLens
+- [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
   - (2019), Neural Graph Collaborative Filtering
 
-- [LightGCN]() - MovieLens
+- [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
   - (2020), LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
   
 - GC-MC - MovieLens
