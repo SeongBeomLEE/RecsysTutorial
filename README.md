@@ -11,7 +11,7 @@
 
 ### Session-based
 
-- [GRU4Rec]() - MovieLens
+- GRU4Rec - MovieLens
   - (2016). Session-based Recommendations with Recurrent Neural Networks
 
 - [Caser](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
@@ -47,14 +47,17 @@
 
 - [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
-
+  
+- [CDAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/CDAE) - MovieLens
+  - (2016). Collaborative Denoising Auto-Encoders for Top-N Recommender Systems
+  
 - [Multi-VAE & Multi-DAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Multi-VAE-and-Multi-DAE) - MovieLens
   - (2018). Variational Autoencoders for Collaborative Filtering
 
-- [RecVAE]() - MovieLens
+- [RecVAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/RecVAE) - MovieLens
   - (2019). RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback
 
-- [EASE]() - MovieLens
+- [EASE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASE) - MovieLens
   - (2019). Embarrassingly Shallow Autoencoders for Sparse Data
   
 - [ADMM SLIM]() - MovieLens
@@ -74,11 +77,11 @@
 - [BPR](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BPR) - MovieLens
   - (2009). BPR: Bayesian Personalized Ranking from Implicit Feedback
 
-- [FM]() - CTR
+- FM - CTR
   - (2010). Factorization Machines
   
-- [DeepFM]() - CTR
+- DeepFM - CTR
   - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
 
-- [Item2Vec]() - MovieLens
+- Item2Vec - MovieLens
   - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
