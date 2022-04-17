@@ -17,10 +17,10 @@
 - [Caser](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 
-- [SASRec]() - MovieLens
+- [SASRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/SASRec) - MovieLens
   - (2018). Self-Attentive Sequential Recommendation
 
-- [BERT4Rec]() - MovieLens
+- [BERT4Rec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BERT4Rec) - MovieLens
   - (2019). BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
 
 - S3-Rec - MovieLens
