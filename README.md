@@ -10,28 +10,30 @@
 ## Implementation List
 
 ### Session-based
+- S3-Rec - MovieLens
+  - (2020). S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
 
-- GRU4Rec - MovieLens
-  - (2016). Session-based Recommendations with Recurrent Neural Networks
+- [BERT4Rec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BERT4Rec) - MovieLens
+  - (2019). BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
 
 - [Caser](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 
 - [SASRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/SASRec) - MovieLens
   - (2018). Self-Attentive Sequential Recommendation
-
-- [BERT4Rec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BERT4Rec) - MovieLens
-  - (2019). BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer
-
-- S3-Rec - MovieLens
-  - (2020). S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
-
+  
+- GRU4Rec - MovieLens
+  - (2016). Session-based Recommendations with Recurrent Neural Networks
+  
 ### GNN-based
-- GC-MC - MovieLens
-  - (2017). Graph Convolutional Matrix Completion
+- [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
+  - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
-- [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
-  - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
+- MultiSage - MovieLens
+  - (2020). MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
+
+- [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
+  - (2019). Neural Graph Collaborative Filtering
   
 - PinSAGE - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
@@ -39,36 +41,46 @@
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
 
-- [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
-  - (2019). Neural Graph Collaborative Filtering
+- GC-MC - MovieLens
+  - (2017). Graph Convolutional Matrix Completion
 
-- [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
-  - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+- [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
+  - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
   
 ### AutoEncoder-based
-
-- [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
-  - (2015). Autorec: Autoencoders Meet Collaborative Filtering
+- [EASER](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASER) - MovieLens
+  - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
   
-- [CDAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/CDAE) - MovieLens
-  - (2016). Collaborative Denoising Auto-Encoders for Top-N Recommender Systems
+- [ADMM SLIM](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/ADMM-SLIM) - MovieLens
+  - (2020). ADMM SLIM: Sparse Recommendations for Many Users
   
-- [Multi-VAE & Multi-DAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Multi-VAE-and-Multi-DAE) - MovieLens
-  - (2018). Variational Autoencoders for Collaborative Filtering
-
 - [RecVAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/RecVAE) - MovieLens
   - (2019). RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback
 
 - [EASE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASE) - MovieLens
   - (2019). Embarrassingly Shallow Autoencoders for Sparse Data
-  
-- [ADMM SLIM](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/ADMM-SLIM) - MovieLens
-  - (2020). ADMM SLIM: Sparse Recommendations for Many Users
 
-- [EASER](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASER) - MovieLens
-  - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
+- [Multi-VAE & Multi-DAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Multi-VAE-and-Multi-DAE) - MovieLens
+  - (2018). Variational Autoencoders for Collaborative Filtering
+  
+- [CDAE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/CDAE) - MovieLens
+  - (2016). Collaborative Denoising Auto-Encoders for Top-N Recommender Systems
+  
+- [AutoRec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/AutoRec) - MovieLens
+  - (2015). Autorec: Autoencoders Meet Collaborative Filtering
 
 ### 이외
+- [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
+  - (2017). Neural Collaborative Filtering
+  
+- DeepFM - CTR
+  - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+
+- Item2Vec - MovieLens
+  - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
+
+- FM - CTR
+  - (2010). Factorization Machines
 
 - [BPR](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BPR) - MovieLens
   - (2009). BPR: Bayesian Personalized Ranking from Implicit Feedback
@@ -76,16 +88,9 @@
 - [MF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/MF) - MovieLens
   - (2009). Matrix Factorization Techniques for Recommender Systems
 
-- FM - CTR
-  - (2010). Factorization Machines
 
-- Item2Vec - MovieLens
-  - (2016). Item2Vec : Neural Item Embedding for Collaborative Filtering
 
-- [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
-  - (2017). Neural Collaborative Filtering
-  
-- DeepFM - CTR
-  - (2017). DeepFM: A Factorization-Machine based Neural Network for CTR Prediction
+
+
 
 
