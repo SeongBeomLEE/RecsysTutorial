@@ -29,6 +29,9 @@
 ### GNN-based
 - GC-MC - MovieLens
   - (2017). Graph Convolutional Matrix Completion
+
+- [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
+  - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
   
 - PinSAGE - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
@@ -37,10 +40,10 @@
   - (2018). Session-based Recommendation with Graph Neural Networks
 
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
-  - (2019), Neural Graph Collaborative Filtering
+  - (2019). Neural Graph Collaborative Filtering
 
 - [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
-  - (2020), LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
+  - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
   
 ### AutoEncoder-based
 
