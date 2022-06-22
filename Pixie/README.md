@@ -1,4 +1,4 @@
-# (2017, CoRR) Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
+# (2017, WWW) Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
 ## Review
 - https://velog.io/@2712qwer/Paper-Code-Review-2017-CoRR-Pixie-A-System-for-Recommending-3-Billion-Items-to-200-Million-Users-in-Real-Time
 
