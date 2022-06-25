@@ -29,24 +29,30 @@
 - [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
   - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
-- MultiSage - MovieLens
+- [MultiSage]() - MovieLens
   - (2020). MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
   - (2019). Neural Graph Collaborative Filtering
   
-- PinSAGE - MovieLens
+- [PinSAGE]() - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
+
+- [GraphSage]() - MovieLens
+  - (2017). Inductive Representation Learning on Large Graphs
 
 - GC-MC - MovieLens
   - (2017). Graph Convolutional Matrix Completion
 
 - [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
   - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
-  
+
+- [DeepWalk](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/DeepWalk) - MovieLens
+  - (2014). DeepWalk: Online Learning of Social Representations
+
 ### AutoEncoder-based
 - [EASER](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/EASER) - MovieLens
   - (2021). Negative Interactions for Improved Collaborative Filtering: Don’t go Deeper, go Higher
