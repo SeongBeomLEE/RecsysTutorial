@@ -29,7 +29,7 @@
 - [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
   - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
-- [MultiSage]() - MovieLens
+- [MultiSAGE]() - MovieLens
   - (2020). MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
@@ -41,7 +41,7 @@
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
 
-- [GraphSage](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/GraphSage) - MovieLens
+- [GraphSAGE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/GraphSage) - MovieLens
   - (2017). Inductive Representation Learning on Large Graphs
 
 - GC-MC - MovieLens
