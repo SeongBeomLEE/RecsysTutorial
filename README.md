@@ -41,7 +41,7 @@
 - SR-GNN - MovieLens
   - (2018). Session-based Recommendation with Graph Neural Networks
 
-- [GraphSage]() - MovieLens
+- [GraphSage](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/GraphSage) - MovieLens
   - (2017). Inductive Representation Learning on Large Graphs
 
 - GC-MC - MovieLens
