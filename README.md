@@ -32,6 +32,12 @@
 - [MultiSAGE]() - MovieLens
   - (2020). MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 
+- SIGN - MovieLens
+  - (2020). SIGN: Scalable Inception Graph Neural Networks
+
+- FastGCN - MovieLens
+  - (2019). Simplifying Graph Convolutional Networks
+
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
   - (2019). Neural Graph Collaborative Filtering
   
@@ -49,6 +55,12 @@
 
 - [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
   - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
+
+- GAT - MovieLens
+  - (2017). Graph Attention Networks
+
+- GCN - MovieLens
+  - (2016). Semi-Supervised Classification with Graph Convolutional Networks
 
 - [DeepWalk](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/DeepWalk) - MovieLens
   - (2014). DeepWalk: Online Learning of Social Representations
