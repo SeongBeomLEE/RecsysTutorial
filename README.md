@@ -41,7 +41,7 @@
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
   - (2019). Neural Graph Collaborative Filtering
   
-- [PinSAGE]() - MovieLens
+- [PinSage]() - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
 - SR-GNN - MovieLens
