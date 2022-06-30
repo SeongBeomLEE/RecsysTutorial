@@ -1,7 +1,11 @@
-#
+# (2018, KDD) Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 ## Review
-- 
+- https://velog.io/@2712qwer/Paper-Code-Review-2018-KDD-Graph-Convolutional-Neural-Networks-for-Web-Scale-Recommender-Systems
 
 ## Reference
-- https://yamalab.tistory.com/category/Recommender%20System/%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C
-- https://github.com/dmlc/dgl/tree/master/examples/pytorch/pinsage
+- https://arxiv.org/abs/1806.01973
+- https://velog.io/@tobigs-recsys/Graph-Convolutional-Neural-Networks-for-Web-Scale-Recommender-System
+- https://greeksharifa.github.io/machine_learning/2021/02/21/Pin-Sage/
+- https://medium.com/pinterest-engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48
+- https://yamalab.tistory.com/164?category=747907
+- https://yamalab.tistory.com/159?category=948370
