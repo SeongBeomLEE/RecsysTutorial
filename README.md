@@ -10,7 +10,13 @@
 ## Implementation List
 
 ### Session-based
-- S3-Rec - MovieLens
+- ItemSage
+  - (2022). ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest
+
+- PinnerForme
+  - (2022). PinnerFormer: Sequence Modeling for User Representation at Pinterest
+
+- S3-Rec
   - (2020). S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
 
 - [BERT4Rec](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/BERT4Rec) - MovieLens
@@ -22,20 +28,26 @@
 - [Caser](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Caser) - MovieLens
   - (2018). Personalized Top-N Sequential Recommendation Via Convolutional Sequence Embedding
 
-- GRU4Rec - MovieLens
+- GRU4Rec
   - (2016). Session-based Recommendations with Recurrent Neural Networks
   
 ### GNN-based
+- SGCF
+  - (2023). Simplifying Graph-based Collaborative Filtering for Recommendation
+
+- SimGCL
+  - (2021). Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation
+
 - [LightGCN](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/LightGCN) - MovieLens
   - (2020). LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation
 
 - [MultiSAGE]() - MovieLens
   - (2020). MultiSage: Empowering GCN with Contextualized Multi-Embeddings on Web-Scale Multipartite Networks
 
-- SIGN - MovieLens
+- SIGN
   - (2020). SIGN: Scalable Inception Graph Neural Networks
 
-- FastGCN - MovieLens
+- FastGCN
   - (2019). Simplifying Graph Convolutional Networks
 
 - [NGCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NGCF) - MovieLens
@@ -44,22 +56,22 @@
 - [PinSage](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/PinSage) - MovieLens
   - (2018). Graph Convolutional Neural Networks for Web-Scale Recommender Systems
 
-- SR-GNN - MovieLens
+- SR-GNN
   - (2018). Session-based Recommendation with Graph Neural Networks
 
 - [GraphSAGE](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/GraphSage) - MovieLens
   - (2017). Inductive Representation Learning on Large Graphs
 
-- GC-MC - MovieLens
+- GC-MC
   - (2017). Graph Convolutional Matrix Completion
 
 - [Pixie](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/Pixie) - MovieLens
   - (2017). Pixie: A System for Recommending 3+ Billion Items to 200+ Million Users in Real-Time
 
-- GAT - MovieLens
+- GAT
   - (2017). Graph Attention Networks
 
-- GCN - MovieLens
+- GCN
   - (2016). Semi-Supervised Classification with Graph Convolutional Networks
 
 - [DeepWalk](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/DeepWalk) - MovieLens
@@ -88,6 +100,12 @@
   - (2015). Autorec: Autoencoders Meet Collaborative Filtering
 
 ### 이외
+- PinnerSage
+  - (2020). PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest
+
+- Time2Vec
+  - (2019). Time2Vec: Learning a Vector Representation of Time
+  
 - [NCF](https://github.com/SeongBeomLEE/RecsysTutorial/tree/main/NCF) - MovieLens
   - (2017). Neural Collaborative Filtering
   
